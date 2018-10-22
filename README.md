@@ -1,4 +1,5 @@
 # CS246
 
 
-This course presents an object-oriented approach to software development used in large-scale programming projects. A software engineering methodology, such as the Unified Modeling Language (UML), will be used for object, dynamic, and functional modeling. Students learn how to implement a system using an appropriate object oriented programming language. Programming topics include: Classes and data abstraction, operator overloading, inheritance, virtual functions and polymorphisms, templates, exception handling, and class libraries including GUI applications. 
+Description
+This course introduces the different ways that data is organized and stored in computer memory and the relevant procedures used in the manipulation of that data. The idea of abstract data types (ADTs) is first introduced, and then reinforced through the characterization of fundamental data structures in the discipline - stacks, queues, and trees. Other topics are recursive algorithms, dynamic storage, and complexity. Algorithms for searching and sorting are also implemented.
